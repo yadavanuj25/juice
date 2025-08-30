@@ -34,7 +34,7 @@ const Cart = () => {
                 className="flex items-center bg-white p-4 rounded-lg shadow-md border"
               >
                 <img
-                  src={`userImages/${item.image}`}
+                  src={`/juiuce/userImages/${item.image}`}
                   alt={item.name}
                   className="w-20 h-20 object-cover rounded"
                 />

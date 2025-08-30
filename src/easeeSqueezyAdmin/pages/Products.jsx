@@ -51,7 +51,7 @@ const Products = () => {
                     <td className="p-2 text-sm">
                       {p.image?.[0] ? (
                         <img
-                          src={p.image[0]}
+                          src={`/juice/${p.image[0]}`}
                           alt={p.name}
                           className="w-[50px] h-[50px] object-cover rounded"
                         />

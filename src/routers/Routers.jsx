@@ -100,6 +100,9 @@ const Routers = () => {
             <Route path="products/:id" element={<EditProduct />} />
           </Route>
         </Routes>
+        <Routes>
+          <Route path="*" element={<NotFound />} />
+        </Routes>
       </Router>
     </>
   );

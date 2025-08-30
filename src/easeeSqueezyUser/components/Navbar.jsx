@@ -43,7 +43,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex-shrink-0">
               <img
-                src="/src/assets/easeeSqueezyLogo.png"
+                src="/juice/src/assets/easeeSqueezyLogo.png"
                 alt="Juice Logo"
                 className="h-10 w-auto"
               />

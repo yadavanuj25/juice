@@ -3,29 +3,6 @@ import { ShoppingCart, CreditCard, User, Users } from "lucide-react";
 import DashboardCard from "../components/DashboardCard";
 
 const Dashboard = () => {
-  // const stats = [
-  //   {
-  //     title: "Total Orders",
-  //     value: "2.5K",
-  //     icon: <ShoppingCart className="text-[#003b19] w-6 h-6" />,
-  //   },
-  //   {
-  //     title: "Total Sales",
-  //     value: "5.7M",
-  //     icon: <CreditCard className="text-[#003b19] w-6 h-6" />,
-  //   },
-  //   {
-  //     title: "Total Customers",
-  //     value: "24.9K",
-  //     icon: <User className="text-[#003b19] w-6 h-6" />,
-  //   },
-  //   {
-  //     title: "People Online",
-  //     value: "0",
-  //     icon: <Users className="text-[#003b19] w-6 h-6" />,
-  //   },
-  // ];
-
   const products = [
     {
       id: 1,

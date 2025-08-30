@@ -58,7 +58,7 @@ const Testomonial = () => {
           <SwiperSlide key={index}>
             <div className="flex flex-col items-center text-center bg-white shadow-lg rounded-2xl p-6 h-full">
               <img
-                src={testimonial.image}
+                src={`/juice/${testimonial.image}`}
                 alt={testimonial.name}
                 className="w-20 h-20 rounded-full object-cover border-4 border-green-500"
               />

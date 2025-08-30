@@ -86,7 +86,7 @@ const Orders = () => {
       {cart.length === 0 ? (
         <div className="flex flex-col items-center justify-center bg-white p-10 border rounded-lg shadow-md">
           <img
-            src="/userImages/EmptyCart.jpg"
+            src="/juice/userImages/EmptyCart.jpg"
             alt="Empty Cart"
             className="w-60 mb-4"
           />

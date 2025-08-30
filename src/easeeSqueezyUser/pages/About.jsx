@@ -31,7 +31,7 @@ const About = () => {
           className="flex flex-col md:flex-row items-center gap-10 bg-white rounded-2xl shadow-lg p-8 mb-16"
         >
           <img
-            src="/userImages/mjuice.jpg"
+            src={`/juice/userImages/mjuice.jpg`}
             alt="Juice Making"
             className="w-full md:w-1/2 rounded-xl shadow-md  transition-transform duration-500"
           />

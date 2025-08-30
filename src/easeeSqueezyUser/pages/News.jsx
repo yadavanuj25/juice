@@ -3,12 +3,12 @@ const articles = [
   {
     title: "New Mango Flavor Launched!",
     date: "Aug 2025",
-    img: "/src/assets/mango.jpg",
+    img: "src/assets/mango.jpg",
   },
   {
     title: "Our Juices Now in 50 Stores!",
     date: "July 2025",
-    img: "/src/assets/strawberry1.jpg",
+    img: "src/assets/strawberry1.jpg",
   },
 ];
 const News = () => {
@@ -22,7 +22,7 @@ const News = () => {
             className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition"
           >
             <img
-              src={article.img}
+              src={`/juice/${article.img}`}
               alt={article.title}
               className="w-full h-40 object-cover"
             />

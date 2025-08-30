@@ -15,7 +15,7 @@ const Sustainability = () => {
       <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="bg-white shadow-md rounded-xl p-6">
           <img
-            src="/userImages/eco-packing.jpg"
+            src={`/juice/userImages/eco-packing.jpg`}
             alt="Eco Packaging"
             className="w-20 h-20 mx-auto mb-3"
           />
@@ -27,7 +27,7 @@ const Sustainability = () => {
 
         <div className="bg-white shadow-md rounded-xl p-6">
           <img
-            src="/userImages/local-farmers.jpg"
+            src={`/juice/userImages/local-farmers.jpg`}
             alt="Local Farmers"
             className="w-20 h-20 mx-auto mb-3"
           />
@@ -39,7 +39,7 @@ const Sustainability = () => {
 
         <div className="bg-white shadow-md rounded-xl p-6">
           <img
-            src="/userImages/energy.jpg"
+            src={`/juice/userImages/energy.jpg`}
             alt="Green Energy"
             className="w-20 h-20 mx-auto mb-3"
           />

@@ -72,7 +72,7 @@ const ProductSlider = () => {
                     transition={{ delay: 0.6 }}
                   >
                     <img
-                      src={slide.img}
+                      src={`/juice/${slide.img}`}
                       alt={slide.title}
                       className="w-full max-w-md rounded-xl shadow-lg"
                     />

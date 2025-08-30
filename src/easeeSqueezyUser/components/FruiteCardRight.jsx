@@ -17,7 +17,11 @@ export default function FruiteCardRight({ title, subTitle, desc, img }) {
           </div>
         </div>
         <div className="md:w-1/2 ">
-          <img src={img} alt="Pineapple" className=" w-full object-cover" />
+          <img
+            src={`${img}`}
+            alt="Pineapple"
+            className=" w-full object-cover"
+          />
         </div>
       </div>
     </div>

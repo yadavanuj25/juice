@@ -4,19 +4,19 @@ import { motion, AnimatePresence } from "framer-motion";
 const slides = [
   {
     id: 1,
-    image: "/userImages/mango2.jpg",
+    image: "/juice/userImages/mango2.jpg",
     title: "Discover Amazing Products",
     subtitle: "Shop the best deals with us today!",
   },
   {
     id: 2,
-    image: "/userImages/juice.jpg",
+    image: "/juice/userImages/juice.jpg",
     title: "Fast & Reliable Delivery",
     subtitle: "Your orders delivered to your doorstep quickly.",
   },
   {
     id: 3,
-    image: "/userImages/carrot.jpg",
+    image: "/juice/userImages/carrot.jpg",
     title: "Unbeatable Discounts",
     subtitle: "Grab limited-time offers before they’re gone!",
   },

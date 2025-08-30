@@ -7,7 +7,11 @@ export default function FruiteCardLeft({ title, subTitle, desc, img }) {
       <div className="flex flex-col md:flex-row bg-white">
         {/* Left: Main Image */}
         <div className="md:w-1/2 ">
-          <img src={img} alt="Pineapple" className=" w-full object-cover" />
+          <img
+            src={`${img}`}
+            alt="Pineapple"
+            className=" w-full object-cover"
+          />
         </div>
 
         {/* Right: Text Section */}

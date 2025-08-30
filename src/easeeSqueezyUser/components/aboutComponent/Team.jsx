@@ -14,7 +14,7 @@ const Team = () => {
         {/* Team Member 1 */}
         <div className="bg-white rounded-xl shadow-md p-6 text-center hover:shadow-lg transition">
           <img
-            src="/userImages/user1.jpg"
+            src={`/juice/userImages/user1.jpg`}
             alt="Founder"
             className="w-28 h-28 mx-auto rounded-full object-cover mb-4"
           />
@@ -29,7 +29,7 @@ const Team = () => {
         {/* Team Member 2 */}
         <div className="bg-white rounded-xl shadow-md p-6 text-center hover:shadow-lg transition">
           <img
-            src="/userImages/user4.jpg"
+            src={`/juice/userImages/user4.jpg`}
             alt="Nutrition Expert"
             className="w-28 h-28 mx-auto rounded-full object-cover mb-4"
           />
@@ -44,7 +44,7 @@ const Team = () => {
         {/* Team Member 3 */}
         <div className="bg-white rounded-xl shadow-md p-6 text-center hover:shadow-lg transition">
           <img
-            src="/userImages/user3.jpg"
+            src={`/juice/userImages/user3.jpg`}
             alt="Operations Head"
             className="w-28 h-28 mx-auto rounded-full object-cover mb-4"
           />

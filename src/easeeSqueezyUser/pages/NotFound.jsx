@@ -5,7 +5,7 @@ const NotFound = () => {
   return (
     <section className="bg-green-100 flex flex-col items-center justify-center min-h-screen text-center px-4">
       <img
-        src="/userImages/404.png"
+        src="/juice/userImages/404.png"
         alt="404 Not Found"
         className="h-80 md:h-96 object-contain"
       />

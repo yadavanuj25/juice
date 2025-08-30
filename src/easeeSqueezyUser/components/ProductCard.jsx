@@ -15,7 +15,7 @@ const ProductCard = ({ product, handleBuy, handleAddCart }) => {
         className="hover:scale-105 transition cursor-pointer"
       >
         <img
-          src={`/userImages/${product.image}`}
+          src={`/juice/userImages/${product.image}`}
           alt={product.name}
           className="h-48 w-full object-cover rounded"
         />

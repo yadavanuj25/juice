@@ -42,7 +42,7 @@ const ProductDetail = () => {
           {/* Main Image */}
           <div className="w-full flex items-center justify-center bg-gray-100 rounded-lg p-4 relative overflow-hidden  h-[350px] group">
             <img
-              src={`/userImages/${activeImage}`}
+              src={`/juice/userImages/${activeImage}`}
               alt={product.name}
               className="rounded-lg w-full h-full  transform transition-transform duration-500 ease-in-out group-hover:scale-125 cursor-zoom-in max-h-[400px] object-contain"
             />
@@ -53,7 +53,7 @@ const ProductDetail = () => {
             {[product.image, ...(product.subImages || [])].map((img, i) => (
               <img
                 key={i}
-                src={`/userImages/${img}`}
+                src={`/juice/userImages/${img}`}
                 alt="sub"
                 className={`w-20 h-20 object-cover rounded-md cursor-pointer border-2 ${
                   activeImage === img ? "border-green-600" : "border-gray-300"

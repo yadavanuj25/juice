@@ -31,7 +31,7 @@ const Home = () => {
           </div>
           <div className="md:w-1/2">
             <img
-              src="/userImages/applejuice.jpg"
+              src={`/juice/userImages/applejuice.jpg`}
               alt="Juice"
               className="rounded-lg shadow-lg w-full object-cover"
             />

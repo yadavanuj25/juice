@@ -2,7 +2,7 @@ import React from "react";
 
 const Sustainability = () => {
   return (
-    <div className=" rounded-2xl py-12 px-6 text-center">
+    <div className=" rounded-2xl py-12 px-3 text-center">
       <h2 className="text-3xl font-bold text-[#003b19]">
         Our Commitment to Sustainability
       </h2>

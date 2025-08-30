@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "productType": "Ice Cream",
+    "name": "Vanilla Delight",
+    "description": "Classic vanilla ice cream with a creamy texture.",
+    "price": 150,
+    "discount": 10,
+    "rating": 4,
+    "image": "j1.jpg",
+    "subImages": ["j4.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "productType": "Ice Cream",
+    "name": "Chocolate Heaven",
+    "description": "Rich chocolate ice cream for chocolate lovers.",
+    "price": 180,
+    "discount": 15,
+    "rating": 5,
+    "image": "j2.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j3.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j4.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "productType": "Ice Cream",
+    "name": "Vanilla Delight",
+    "description": "Classic vanilla ice cream with a creamy texture.",
+    "price": 150,
+    "discount": 10,
+    "rating": 4,
+    "image": "j5.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "productType": "Ice Cream",
+    "name": "Chocolate Heaven",
+    "description": "Rich chocolate ice cream for chocolate lovers.",
+    "price": 180,
+    "discount": 15,
+    "rating": 5,
+    "image": "j6.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j7.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j8.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j9.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j10.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "productType": "Ice Cream",
+    "name": "Vanilla Delight",
+    "description": "Classic vanilla ice cream with a creamy texture.",
+    "price": 150,
+    "discount": 10,
+    "rating": 4,
+    "image": "j1.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "productType": "Ice Cream",
+    "name": "Chocolate Heaven",
+    "description": "Rich chocolate ice cream for chocolate lovers.",
+    "price": 180,
+    "discount": 15,
+    "rating": 5,
+    "image": "j2.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j3.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j4.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "productType": "Ice Cream",
+    "name": "Vanilla Delight",
+    "description": "Classic vanilla ice cream with a creamy texture.",
+    "price": 150,
+    "discount": 10,
+    "rating": 4,
+    "image": "j5.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "productType": "Ice Cream",
+    "name": "Chocolate Heaven",
+    "description": "Rich chocolate ice cream for chocolate lovers.",
+    "price": 180,
+    "discount": 15,
+    "rating": 5,
+    "image": "j6.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j7.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j8.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "productType": "Ice Cream",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry ice cream with natural flavor.",
+    "price": 160,
+    "discount": 5,
+    "rating": 4,
+    "image": "j9.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "productType": "Ice Cream",
+    "name": "Mango Magic",
+    "description": "Sweet and tangy mango ice cream for tropical vibes.",
+    "price": 170,
+    "discount": 12,
+    "rating": 5,
+    "image": "j10.jpg",
+    "subImages": ["j1.jpg", "j2.jpg", "j3.jpg"],
+    "flavour": "Orange",
+    "quantity": 1,
+    "reviews": [
+      {
+        "username": "Rahul Kumar",
+        "rating": 5,
+        "comment": "Excellent phone, super fast performance!"
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good battery life, but camera could be better."
+      },
+      {
+        "username": "Vikram Singh",
+        "rating": 5,
+        "comment": "Worth every rupee. Highly recommend!"
+      }
+    ]
+  }
+]
